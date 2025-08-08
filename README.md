@@ -14,7 +14,8 @@ Struktur proyek dibuat dengan pemisahan **Object Repository**, **Test Cases**, d
 ---
 
 ## 📂 Struktur Project
-<img width="376" height="431" alt="Screenshot_3" src="https://github.com/user-attachments/assets/12798248-55dd-47b6-a4d9-4e2469fcc55c" />
+<img width="526" height="425" alt="Screenshot_5" src="https://github.com/user-attachments/assets/b9bacef4-7843-4795-a495-38b256c0f05e" />
+
 
 ## 📑 Test Case yang Dibuat
 | No | Nama Test Case  | Endpoint                 | Method |
